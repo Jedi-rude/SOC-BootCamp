@@ -32,3 +32,5 @@ Monitoring and Security Services
 - Rsyslog
 - Wazuh
 - SSH Guard
+
+This is basic SOC Monitroing bootcamp for beginners.
